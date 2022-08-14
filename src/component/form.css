@@ -1,0 +1,29 @@
+.Form{
+  width:300px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  flex-wrap:wrap;
+   background: linear-gradient( to bottom, rgba(0, 0, 0, 0.5) 10%, rgba(0, 0, 0, 1) 100%);
+  padding:29px;
+  border-radius:10px;
+  }
+  input{
+  font-size:17px;
+  border-radius:5px;
+  font-weight:bold;
+  width:90%;
+  padding:10px;
+  margin:5px 0;
+  cursor:pointer;
+  outline:none;
+}
+input#submit{
+  width:100px;
+  display:block;
+ 
+}
+span{
+  color:red;
+  font-size:10px;
+}
