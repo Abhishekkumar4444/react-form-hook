@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-hook-form/static/css/main.af9538fc.css",
+    "main.js": "/react-hook-form/static/js/main.f00cf227.js",
+    "static/media/3037689.jpg": "/react-hook-form/static/media/3037689.a1c74eee465c76376018.jpg",
+    "index.html": "/react-hook-form/index.html",
+    "main.af9538fc.css.map": "/react-hook-form/static/css/main.af9538fc.css.map",
+    "main.f00cf227.js.map": "/react-hook-form/static/js/main.f00cf227.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af9538fc.css",
+    "static/js/main.f00cf227.js"
+  ]
+}
